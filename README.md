@@ -30,6 +30,6 @@ DashBoard Interaction <a href = "https://github.com/AnkitaChoubey/Data-Analysis-
 
 ## Dashboard:
 ![Sales_Ankita](https://github.com/user-attachments/assets/01f72de0-604b-4906-b40f-9331a3e59a47)
-https://github.com/AnkitaChoubey/Data-Analysis-Dashboard/blob/main/Sales_2_%20Ankita.jpg
+
 
 
