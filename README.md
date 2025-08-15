@@ -5,7 +5,7 @@ The objective of this project is to analyze Superstore sales data to uncover act
 
 # Dataset Used:
 - <a href = "https://github.com/AnkitaChoubey/Data-Analysis-Dashboard/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>
-<img width="1210" height="680" alt="AnkitaChoubey" src="https://github.com/user-attachments/assets/1a1b4317-71d4-4e3d-b903-16f35bdfd6a3" />
+  
 
  ## Question (KPIs):
 - What is the total sales, profit, orders, and average shipping days?
@@ -31,6 +31,8 @@ DashBoard Interaction <a href = "https://github.com/AnkitaChoubey/Data-Analysis-
 
 ## Dashboard:
 ![Sales_Ankita](https://github.com/user-attachments/assets/01f72de0-604b-4906-b40f-9331a3e59a47)
+<img width="1210" height="680" alt="AnkitaChoubey" src="https://github.com/user-attachments/assets/0c990b47-07bd-4d87-b533-f336192334c2" />
+
 
 ## Project Insights
 - Total performance: Achieved high sales and profit figures, with a steady volume of orders.
