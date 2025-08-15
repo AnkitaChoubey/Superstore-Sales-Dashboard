@@ -33,7 +33,8 @@ DashBoard Interaction <a href = "https://github.com/AnkitaChoubey/Data-Analysis-
  <img width="1225" height="684" alt="AnkitaChoubey-Superstore Dashboard" src="https://github.com/user-attachments/assets/3b55da00-387d-4d8f-b238-bce76d42203e" />
 
 
-(https://github.com/user-attachments/assets/0c990b47-07bd-4d87-b533-f336192334c2")
+ <img width="1210" height="680" alt="AnkitaChoubey" src="https://github.com/user-attachments/assets/093c1aef-4e5f-459d-bac7-9984c0211907" />
+
 
 
 ## Project Insights
