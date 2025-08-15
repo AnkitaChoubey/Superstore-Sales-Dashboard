@@ -30,8 +30,9 @@ DashBoard Interaction <a href = "https://github.com/AnkitaChoubey/Data-Analysis-
 - Reviewed and published the dashboard after validating data accuracy and visuals.
 
 ## Dashboard:
-![Sales_Ankita](https://github.com/user-attachments/assets/01f72de0-604b-4906-b40f-9331a3e59a47)
-<img width="1210" height="680" alt="AnkitaChoubey" src="https://github.com/user-attachments/assets/0c990b47-07bd-4d87-b533-f336192334c2" />
+(https://github.com/user-attachments/assets/fcd1a788-6c32-40d2-a800-744675f91954")
+
+(https://github.com/user-attachments/assets/0c990b47-07bd-4d87-b533-f336192334c2")
 
 
 ## Project Insights
