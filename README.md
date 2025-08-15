@@ -30,7 +30,8 @@ DashBoard Interaction <a href = "https://github.com/AnkitaChoubey/Data-Analysis-
 - Reviewed and published the dashboard after validating data accuracy and visuals.
 
 ## Dashboard:
-(https://github.com/user-attachments/assets/fcd1a788-6c32-40d2-a800-744675f91954")
+ <img width="1225" height="684" alt="AnkitaChoubey-Superstore Dashboard" src="https://github.com/user-attachments/assets/3b55da00-387d-4d8f-b238-bce76d42203e" />
+
 
 (https://github.com/user-attachments/assets/0c990b47-07bd-4d87-b533-f336192334c2")
 
