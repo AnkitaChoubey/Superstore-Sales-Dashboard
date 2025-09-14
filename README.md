@@ -18,7 +18,7 @@ Total Profit: $175K
 
 Average Ship Days: 4
 
-# 🖥️ Dashboard Interactions
+# 🖥️ Dashboard Preview
 
 <img width="1225" height="684" alt="AnkitaChoubey-Superstore Dashboard" src="https://github.com/user-attachments/assets/f58cb491-c7a2-4367-8a0c-77000d935733" />
 <img width="1210" height="680" alt="AnkitaChoubey" src="https://github.com/user-attachments/assets/7db7505b-ad14-4027-9b4b-95715e621b06" />
